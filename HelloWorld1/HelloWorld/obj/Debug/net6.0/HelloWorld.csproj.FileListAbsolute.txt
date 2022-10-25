@@ -1,0 +1,15 @@
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/tylernewton/repos/HelloWorld1/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
